@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedHashSet;
@@ -102,7 +101,5 @@ public class CharList {
         Collections.shuffle(container);
         CharList list = new CharList(container);
         return list;
-
-
     }
 }
