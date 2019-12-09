@@ -18,13 +18,5 @@ public class Coll1 {
         System.out.println(arr.mixedList());
         System.out.println(arr.clearList());
 
-
-
-
-
-
-
-
-
     }
 }
